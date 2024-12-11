@@ -1,0 +1,42 @@
+@media screen and (min-width: 375px) {
+  .section {
+    &__header {
+      &-left {
+        height: 50vh;
+      }
+    }
+  }
+  .opinion__section {
+    .slick-prev {
+      left: -10px;
+    }
+
+    .slick-next {
+      right: -10px;
+    }
+
+    &-container {
+      width: 85vw;
+      margin: 0 auto;
+      padding: 30px 25px;
+    }
+  }
+}
+
+@media screen and (min-width: 425px) {
+  .section {
+    &__header {
+      &-center {
+        h3 {
+          font-size: 1.8rem;
+        }
+
+        .header-last {
+          .fancy-style {
+            font-size: 7rem;
+          }
+        }
+      }
+    }
+  }
+}
