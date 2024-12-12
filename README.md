@@ -1,2 +1,1 @@
-# Dietician-s-website
-https://paulaami.github.io/Dietician-s-website/
+Updated version of B2B-Rev official website
