@@ -2169,10 +2169,8 @@ a:hover {
     margin: 0 auto;
     max-width: 1100px;
   }
-  .section__info-bottom-right, .section__info-bottom-left {
-    margin: 1rem;
-    width: 49%;
-    max-width: 500px;
+  .section__info-bottom-center {
+    max-width: 700px;
   }
   .section__aboutme .container {
     display: -webkit-box;
